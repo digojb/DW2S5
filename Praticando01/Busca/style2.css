@@ -37,6 +37,7 @@ li a:hover {
     text-align: center;
     font-size: 25px;
     background-image: url(imagemFundo.jpg);
+    background-size: cover;
     height: 400px;
     margin-bottom: 50px;
     color: rgb(255, 208, 0);
