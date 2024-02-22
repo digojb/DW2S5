@@ -1,5 +1,6 @@
 # DW2S5
 
+#
 <?php
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
@@ -11,3 +12,4 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+#
