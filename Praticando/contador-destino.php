@@ -25,7 +25,7 @@
 
         if ($inicio > $final) {
             for ($i = $inicio; $i >= $final; $i -= $incremento) {
-                echo $i;
+                echo $i . " ";
             }
         } else {
             for ($i = $inicio; $i <= $final; $i += $incremento) {
