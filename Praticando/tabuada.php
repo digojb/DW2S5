@@ -33,13 +33,11 @@
                 echo "<br>";
                 echo "<br>";
             }
-            echo "</table>";
         }
         ?>
         <script>
         function limpar() {
             document.getElementById('valor').value = '';
-            document.querySelector('table').innerHTML = '';
         }
         </script>
     </div>
